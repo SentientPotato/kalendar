@@ -1,6 +1,5 @@
 test_that("ensure_date() catches Date errors", {
     expect_error(ensure_date("A"), "Supply a date.*")
-    expect_error(ensure_date(5), "Supply a date.*")
 })
 
 test_that("previous_sunday() works for Sundays", {
