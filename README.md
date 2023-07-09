@@ -4,6 +4,9 @@
 # kalendar
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/SentientPotato/kalendar/branch/main/graph/badge.svg)](https://app.codecov.io/gh/SentientPotato/kalendar?branch=main)
 <!-- badges: end -->
 
 `kalendar` helps you place regular dates, like July 9, 2023 into the

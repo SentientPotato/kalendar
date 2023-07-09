@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # kalendar
 
 <!-- badges: start -->
+[![Codecov test coverage](https://codecov.io/gh/SentientPotato/kalendar/branch/main/graph/badge.svg)](https://app.codecov.io/gh/SentientPotato/kalendar?branch=main)
 <!-- badges: end -->
 
 `kalendar` helps you place regular dates, like July 9, 2023 into the liturgical calendar of The Episcopal Church, like "Sunday, Proper 9 (the Sixth Sunday After Pentecost), Lectionary Cycle A, Daily Office Year One".
